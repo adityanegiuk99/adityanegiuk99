@@ -19,12 +19,9 @@ I am a Computer Science undergraduate with a strong foundation in **core CS fund
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityanegiuk99&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=adityanegiuk99&show_icons=true&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=adityanegiuk99&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityanegiuk99&layout=compact&theme=dark)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityanegiuk99&theme=vision-friendly-dark&hide_border=true)
 
 
 ### ✍️ Random Dev Quote
